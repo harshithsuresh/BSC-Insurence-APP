@@ -11,7 +11,7 @@ Technologies:
   Frontend: ReactJS,axios,Tailwind
   
 
-# Getting Started with Create React App
+# Getting Started 
   1: Create virtual environment
   2: pip install requirement.txt to install -> install packages
   3: Run localhost:8000/api/uploadData/ from Postman to load the data from dataset
