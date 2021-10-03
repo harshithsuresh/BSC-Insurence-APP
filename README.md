@@ -1,4 +1,4 @@
-#BSC-Insurence-APP
+# BSC-Insurence-APP
 
 Technologies:
 
@@ -11,7 +11,7 @@ Technologies:
   Frontend: ReactJS,axios,Tailwind
   
 
-Steps to initiate
+# Getting Started with Create React App
   1: Create virtual environment
   2: pip install requirement.txt to install -> install packages
   3: Run localhost:8000/api/uploadData/ from Postman to load the data from dataset
